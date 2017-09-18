@@ -19,7 +19,10 @@ var lowercase = 'hello!'
 lowercase.toLowerCase() === lowercase
 
 function sayHiToGrandma(string) {
-  if (`string` === shout(`string`)) {
-    return ("YES INDEED!")
-  }
+  {
+  if (shout(`string`) === uppercase) {
+  return ("YES INDEED!") }
+  else if (whisper(`string`) === lowercase) {
+    return ("I can't hear you!") }
+}
 }
