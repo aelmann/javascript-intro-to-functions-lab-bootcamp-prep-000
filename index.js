@@ -13,13 +13,3 @@ function logWhisper(string) {
 var lowercase = string.toLowerCase()
 
 var uppercase = string.toUpperCase()
-
-function sayHiToGrandma(string) {
-  {
- if (shout(`string`) === uppercase) {
-  return ("YES INDEED!") }
-
-else if (whisper(`string`) === lowercase) {
-    return ("I can't hear you!") }
-}
-}
