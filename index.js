@@ -16,7 +16,7 @@ var uppercase = string.toUpperCase()
 
 function sayHiToGrandma(string) {
   {
- if (shout(`string`)) uppercase {
+ if (shout(`string`)) === {uppercase} {
   return ("YES INDEED!") }
 
 else if (whisper(`string`) === {lowercase} {
