@@ -20,7 +20,7 @@ lowercase.toLowerCase() === lowercase
 
 function sayHiToGrandma(string) {
   {
-  if ("string" === shout(`string`)) {
+  if ("string" === shout(string)) {
   return ("YES INDEED!") }
 }
 }
